@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cfb-team-dashboard/static/css/main.d6713f08.chunk.css",
+    "main.js": "/cfb-team-dashboard/static/js/main.bbe4d574.chunk.js",
+    "main.js.map": "/cfb-team-dashboard/static/js/main.bbe4d574.chunk.js.map",
+    "runtime-main.js": "/cfb-team-dashboard/static/js/runtime-main.d5e7a3bc.js",
+    "runtime-main.js.map": "/cfb-team-dashboard/static/js/runtime-main.d5e7a3bc.js.map",
+    "static/js/2.af1445e0.chunk.js": "/cfb-team-dashboard/static/js/2.af1445e0.chunk.js",
+    "static/js/2.af1445e0.chunk.js.map": "/cfb-team-dashboard/static/js/2.af1445e0.chunk.js.map",
+    "index.html": "/cfb-team-dashboard/index.html",
+    "precache-manifest.c6c46add566d09e657812ff720c0c0e9.js": "/cfb-team-dashboard/precache-manifest.c6c46add566d09e657812ff720c0c0e9.js",
+    "service-worker.js": "/cfb-team-dashboard/service-worker.js",
+    "static/css/main.d6713f08.chunk.css.map": "/cfb-team-dashboard/static/css/main.d6713f08.chunk.css.map",
+    "static/js/2.af1445e0.chunk.js.LICENSE.txt": "/cfb-team-dashboard/static/js/2.af1445e0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d5e7a3bc.js",
+    "static/js/2.af1445e0.chunk.js",
+    "static/css/main.d6713f08.chunk.css",
+    "static/js/main.bbe4d574.chunk.js"
+  ]
+}
