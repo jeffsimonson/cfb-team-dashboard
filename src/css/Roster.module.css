@@ -1,0 +1,51 @@
+.container {
+  height: 720px;
+  overflow-y: scroll;
+}
+
+h2.Roster{
+  text-align: center;
+}
+
+caption.Roster {
+  font-weight: bold;
+  font-size: 1.25rem;
+  padding-bottom: 3px;
+}
+
+table.Roster {
+  border-spacing: 0px;
+}
+
+table.Roster, table.Roster td, table.Roster th {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+
+th.stickyHeader {
+    position: sticky;
+    top: 0;
+    z-index: 10;
+}
+
+.Roster th, .Roster td {
+  padding: 3px;
+}
+
+.Roster th {
+  text-align: left;
+}
+.Roster td  {
+  text-align: center;
+}
+
+.Roster td:first-child {
+    text-align: left;;
+}
+
+.Roster td:nth-child(2), .Roster td:nth-child(7) {
+  text-align: left;
+}
+
+.Roster tr:nth-child(even) {background-color: #f2f2f2;}
+

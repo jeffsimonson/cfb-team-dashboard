@@ -1,0 +1,34 @@
+body {
+  background-color: rgb(250, 250, 250);
+}
+
+.selectionArea {
+  margin-top: 15px;
+  display: flex;
+  align-items: left;
+  justify-content: left;
+  flex-direction: Row;
+}
+
+h1 {
+  text-align: center;
+}
+
+.image {
+  width: 370px;
+  margin-top: 50px;
+}
+
+@media (max-width: 770px) {
+  .container {
+    margin: 0 0;
+  }
+  .image {
+    width: 100%;
+  }
+}
+
+th {
+  background-color: black;
+  color: #939799;
+}

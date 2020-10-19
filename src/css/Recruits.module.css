@@ -1,0 +1,42 @@
+caption.Recruits {
+  font-weight: bold;
+  font-size: 1.25rem;
+  padding-bottom: 3px;
+}
+
+h2.Recruits  {
+  text-align: center;
+}
+  
+table.Recruits {
+  border-spacing: 0px;
+}
+
+table.Recruits, table.Recruits td, table.Recruits th {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+
+.Recruits th, .Recruits td {
+  padding: 3px;
+}
+
+.Recruits th {
+  text-align: left;
+}
+.Recruits td  {
+  text-align: center;
+}
+
+.Recruits td:first-child {
+    text-align: left;;
+}
+
+.Recruits td:nth-child(2), 
+.Recruits td:nth-child(7), 
+.Recruits td:nth-child(8) {
+  text-align: left;
+}
+
+.Recruits tr:nth-child(even) {background-color: #f2f2f2;}
+

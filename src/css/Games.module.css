@@ -1,0 +1,40 @@
+caption.games {
+  font-weight: bold;
+  font-size: 1.25rem;
+  padding-bottom: 3px;
+}
+
+.games h2 {
+  text-align: center;
+}
+  
+table.games {
+  border-spacing: 0px;
+}
+
+table.games, table.games td, table.games th {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+
+.games th, .games td {
+  padding: 3px;
+}
+
+.games th {
+  text-align: left;
+}
+.games td  {
+  text-align: center;
+}
+
+.games td:first-child {
+    text-align: left;;
+}
+
+.games td:nth-child(2) {
+  text-align: left;
+}
+
+.games tr:nth-child(even) {background-color: #f2f2f2;}
+

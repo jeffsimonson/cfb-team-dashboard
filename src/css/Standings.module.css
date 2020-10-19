@@ -1,0 +1,33 @@
+caption.standings {
+  font-weight: bold;
+  font-size: 1.25rem;
+  padding-bottom: 3px;
+}
+
+table.standings {
+  border-spacing: 0px;
+}
+
+table.standings, table.standings td, table.standings th {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+
+  .standings th, .standings td {
+    padding: 3px;
+  }
+
+  .standings th {
+    text-align: left;
+  }
+
+  .standings td:first-child {
+      text-align: left;;
+  }
+
+  .standings td  {
+    text-align: center;
+  }
+
+  .standings tr:nth-child(even) {background-color: #f2f2f2;}
+
